@@ -28,7 +28,7 @@ To build a scalable and explainable framework that evaluates municipal financial
 ---
 
 ## Methodology
-See full methodology here: [Methodology](docs/methodology.md)
+See full methodology here: docs
 
 ---
 
