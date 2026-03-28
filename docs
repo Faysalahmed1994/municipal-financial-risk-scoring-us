@@ -1,1 +1,22 @@
+# Methodology
 
+## 1. Overview
+This project develops a data-driven municipal financial risk scoring model using publicly available financial and demographic data. The objective is to identify early warning signals of fiscal stress, debt burden, and financial transparency risk in U.S. municipalities.
+
+---
+
+## 2. Scope of Analysis and Limitations
+
+### Geographic Scope
+Illinois municipalities
+
+### Sample Size
+50–100 municipalities
+
+### Time Period
+FY2022–FY2024
+
+### Limitations
+- Based on public data only
+- Not an audit opinion
+- Screening tool only
